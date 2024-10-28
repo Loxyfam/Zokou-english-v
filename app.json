@@ -13,7 +13,7 @@
   "stack": "container",
   "env": {
     "PREFIX": {
-      "description": "choose your prefix of bot",
+      "description": ".",
       "value": "#",
       "required": true
     },
